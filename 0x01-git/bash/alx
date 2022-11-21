@@ -1,5 +1,5 @@
--e#!/bin/bash\echo "ALX"
+-e#!/bin/bash\echo "ALX School"
 #!/bin/bash
-echo "ALX" 
+echo "ALX School" 
 #!/bin/bash
-echo "ALX" 
+echo "ALX School"
